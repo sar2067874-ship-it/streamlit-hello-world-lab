@@ -1,3 +1,3 @@
 import streamlit as st
 st.write('Hello, *World!* :sunglasses:')
-st.write('What does :sun: do?')
+st.write('I'm using a :computer: to complete this assignment.')
