@@ -1,3 +1,3 @@
 import streamlit as st
 st.write('Hello, *World!* :sunglasses:')
-st.write('I think this assignment is complete :woman_technologist:')
+st.write(':woman_technologist:')
